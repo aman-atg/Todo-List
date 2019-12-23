@@ -6,7 +6,7 @@ body{
     background:      -o-linear-gradient(90deg, #649173 10%, #DBD5A4 90%); /* Opera 11.10+ */
     background:         linear-gradient(90deg, #649173 10%, #DBD5A4 90%); /* W3C */
 }
-/* for body bora bora */
+ 
 h1{
     background-color: #2980b9;
     margin:0;
@@ -24,8 +24,7 @@ ul{
 
 
 }
-/* font-family roboto*/
-
+ 
 li{
     background-color: #ffffff;
     height: 40px;
@@ -36,7 +35,7 @@ li:nth-child(2n){
     background-color: #f7f7f7;
 }
 
-.fa-plus-circle{
+.fa-plus{
     float: right;
 }
 

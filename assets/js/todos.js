@@ -23,6 +23,6 @@ inp.keypress(function(e){
    }
 });
 
-$(".fa-plus-circle").click(function(){
+$(".fa-plus").click(function(){
     $("input[type='text']").fadeToggle();
 });

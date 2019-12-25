@@ -1,0 +1,19 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "A simple Todo-list",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman-atg/Todo-List.git"
+  },
+  "author": "Aman Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman-atg/Todo-List/issues"
+  },
+  "homepage": "https://github.com/aman-atg/Todo-List#readme"
+}

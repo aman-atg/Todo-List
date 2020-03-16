@@ -1,6 +1,6 @@
 # Todo-List
 
-A simple To-do List using HTML , CSS , JS , Font-Awesome and Jquery.
+A simple To-do List built with HTML , CSS , JS , Font-Awesome and Jquery.
 
 ## Getting Started
 
